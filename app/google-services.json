@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "27280624610",
+    "firebase_url": "https://project14cakebaker.firebaseio.com",
+    "project_id": "project14cakebaker",
+    "storage_bucket": "project14cakebaker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27280624610:android:2c6e5a74537752dd",
+        "android_client_info": {
+          "package_name": "com.example.ym.project14cakebaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27280624610-6r0j35rqq2kbiureqpq9aiprfbdcp6f9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ym.project14cakebaker",
+            "certificate_hash": "5977719453335975765aa3170951562c58ca8653"
+          }
+        },
+        {
+          "client_id": "27280624610-d41iev8s8310skcols1jbdvtp8m75ru4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Rb-xFzkg6h3zhJv83q2bonC4lAv3gN4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27280624610-d41iev8s8310skcols1jbdvtp8m75ru4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
