@@ -11,6 +11,7 @@ import android.widget.EditText;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 
+import com.example.ym.project14cakebaker.Home;
 import com.example.ym.project14cakebaker.MainActivity;
 import com.example.ym.project14cakebaker.R;
 import com.google.android.gms.tasks.OnCompleteListener;
@@ -93,7 +94,7 @@ public class Login extends AppCompatActivity {
                                         Toast.makeText(Login.this, getString(R.string.auth_failed), Toast.LENGTH_LONG).show();
                                     }
                                 } else {
-                                    Intent intent = new Intent(Login.this, MainActivity.class);
+                                    Intent intent = new Intent(Login.this, Home.class);
                                     startActivity(intent);
                                     finish();
                                 }

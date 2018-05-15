@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "27280624610",
-    "firebase_url": "https://project14cakebaker.firebaseio.com",
-    "project_id": "project14cakebaker",
-    "storage_bucket": "project14cakebaker.appspot.com"
+    "project_number": "75257565321",
+    "firebase_url": "https://cake-baker-1ad37.firebaseio.com",
+    "project_id": "cake-baker-1ad37",
+    "storage_bucket": "cake-baker-1ad37.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:27280624610:android:2c6e5a74537752dd",
+        "mobilesdk_app_id": "1:75257565321:android:2c6e5a74537752dd",
         "android_client_info": {
           "package_name": "com.example.ym.project14cakebaker"
         }
       },
       "oauth_client": [
         {
-          "client_id": "27280624610-6r0j35rqq2kbiureqpq9aiprfbdcp6f9.apps.googleusercontent.com",
+          "client_id": "75257565321-qgij4m475p0b2h1ig4rkrlk407s9p0ct.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.ym.project14cakebaker",
@@ -23,13 +23,13 @@
           }
         },
         {
-          "client_id": "27280624610-d41iev8s8310skcols1jbdvtp8m75ru4.apps.googleusercontent.com",
+          "client_id": "75257565321-undnspp80f6omn96j0htgisapc02nqhb.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC0Rb-xFzkg6h3zhJv83q2bonC4lAv3gN4"
+          "current_key": "AIzaSyD-R9zZ59cghCCZ4k2csmHsQz5FKtqX2j8"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "27280624610-d41iev8s8310skcols1jbdvtp8m75ru4.apps.googleusercontent.com",
+              "client_id": "75257565321-undnspp80f6omn96j0htgisapc02nqhb.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
